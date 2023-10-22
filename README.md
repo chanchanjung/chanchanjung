@@ -1,12 +1,3 @@
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h1 align="center">📚 공부를 즐겨보자 📚</h3>
 
-- 👋 Hi, I’m @chanchanjung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chanchanjung/chanchanjung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>실전 따라가기</h3>
